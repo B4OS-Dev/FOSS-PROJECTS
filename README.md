@@ -5,13 +5,15 @@ This is the proposed list of FOSS projects we can choose to colaborate to.
 
 Project / Language / Repo
 
+* Bitcoin Core / C++ / https://github.com/bitcoin/bitcoin/
+
 * Core Lightning / C / https://github.com/ElementsProject/lightning
 
 * Eclair / Scala / https://github.com/ACINQ/eclair
 
-* Lightningdevkit	/ Rust / https://github.com/lightningdevkit/
-
 * LND	/ Golang / https://github.com/lightningnetwork/lnd
+
+* Lightningdevkit	/ Rust / https://github.com/lightningdevkit/
 
 * SimLN	/ Rust / https://github.com/bitcoin-dev-project/sim-ln
 
@@ -29,9 +31,9 @@ Project / Language / Repo
 
 * Payjoin /	Rust / https://github.com/payjoin
 
-* Wasabi / C# /	https://github.com/zkSNACKs/WalletWasabi
+* Sparrow Wallet / Java / https://github.com/sparrowwallet/sparrow
 
-* Bitcoin Core / C++ / https://github.com/bitcoin/bitcoin/
+* Wasabi Wallet / C# /	https://github.com/zkSNACKs/WalletWasabi
 
 * BDK / Rust / https://github.com/bitcoindevkit
 
@@ -42,6 +44,8 @@ Project / Language / Repo
 * Stratum V2 / Rust / https://github.com/stratum-mining
 
 * Libsecp256k1	/ C /	https://github.com/bitcoin-core/secp256k1
+  
+* Mostro / Rust / https://github.com/MostroP2P
 
 
 below the fold:
@@ -51,3 +55,5 @@ below the fold:
 * Cashu	/ Python / https://github.com/cashubtc
 
 * Eye of Satoshi	/ Rust / https://github.com/talaia-labs/rust-teo
+
+* LNp2pBot / Javascript / https://github.com/lnp2pbot
