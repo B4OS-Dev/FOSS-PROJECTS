@@ -54,6 +54,6 @@ below the fold:
 
 * Cashu	/ Python / https://github.com/cashubtc
 
-* Eye of Satoshi	/ Rust / https://github.com/talaia-labs/rust-teo
+* Eye of Satoshi	/ Rust / https://github.com/talaia-labs/rust-teos
 
 * LNp2pBot / Javascript / https://github.com/lnp2pbot
